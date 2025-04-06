@@ -31,7 +31,7 @@ Title: *Safety Control with Conflict Resolution for Multi Robots in Flexible Man
 🔗 [Publisher Link (TBD)](https://link.springer.com/book/9789819646128)  
 
 ## 🛠 Skills
-Programming language: Python
-Frame Work: ROS
-Tools: Gazebo, RViz
+- Programming language: Python
+- Frame Work: ROS
+- Tools: Gazebo, RViz
 
