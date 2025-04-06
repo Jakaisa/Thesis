@@ -10,7 +10,7 @@
 -  Performance comparison with/without obstacles
 
 ## 📂 Documentation
-- `Thesis_in_Journal_Template.pdf` – Thesis document
+- `Thesis in Journal Template.pdf` – Thesis document
 - `https://youtu.be/3GDB7yVZKwU` – Simulation demo on YouTube
 - Demo Preview
 
