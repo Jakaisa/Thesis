@@ -11,7 +11,7 @@
 
 ## 📂 Documentation
 - `Thesis in Journal Template.pdf` – Thesis document
-- `https://youtu.be/3GDB7yVZKwU` – Simulation demo on YouTube
+- `Decentralized Safety Control for Multi Agent on Flexible Manufacturing System Demo` – Simulation demo on YouTube
 - Demo Preview
 
 ## 📷 Demo Preview in Conflict Resolution
@@ -23,10 +23,10 @@
 ## 🎥 Video Demonstration showing CLBF and Djikstra
 https://youtu.be/3GDB7yVZKwU 
 
-## Publications
-This research has been accepted for publication in:
-**International Symposium on Systems Modelling and Simulation (SMS 2024), Springer CCIS Volume 2483.**
-Title: *Safety Control with Conflict Resolution for Multi Robots in Flexible Manufacturing System*
+## 📄 Publications
+This research has been accepted for publication in:  
+**International Symposium on Systems Modelling and Simulation (SMS 2024), Springer CCIS Volume 2483.**  
+Title: *Safety Control with Conflict Resolution for Multi Robots in Flexible Manufacturing System*  
 📅 Expected Publication: May 22, 2025  
 🔗 [Publisher Link (TBD)](https://link.springer.com/book/9789819646128)  
 
